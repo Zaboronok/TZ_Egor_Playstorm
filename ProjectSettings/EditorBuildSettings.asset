@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/ShaderGraph.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/TZ_Playstorm/Scenes/Shader.unity
+    guid: e4fcd20fd40ecda4886fa3340f18ec61
+  - enabled: 1
+    path: Assets/TZ_Playstorm/Scenes/SpriteMask.unity
+    guid: ff7f9ca8b32f1bf48ae6652a17b727fc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
